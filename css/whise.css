@@ -1,0 +1,33 @@
+/* palette 
+blue: C2D4F2
+maroon: #9E5F0F
+red: 59100d
+*/
+
+.intro-header .site-heading h1, .intro-header .page-heading h1 {
+	font-size: 40px;
+}
+
+p,li {
+	font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+a {
+	color: #337AB7;
+}
+
+hr {
+	border-color: #9E5F0F;
+}
+
+h2,h3,h4,h5{
+	color: #59100D;
+}
+
+.post-preview > a > .post-title {
+	font-size: 30px;
+}
+
+.post-preview > .post-subtitle {
+	font-size: 22px;
+}
