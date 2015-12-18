@@ -4,6 +4,9 @@ maroon: #9E5F0F
 red: 59100d
 */
 
+.intro-header {
+	margin-bottom: 5px;
+}
 .intro-header .site-heading h1, .intro-header .page-heading h1 {
 	font-size: 40px;
 }
@@ -12,8 +15,9 @@ red: 59100d
     margin-top: 16px;
     font-size: small;
 }
-p,li {
+p, li {
 	font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 1em;
 }
 
 a {
@@ -29,6 +33,9 @@ h2,h3,h4,h5{
 	color: #59100D;
 }
 
+.post-preview {
+	font-size: 0.9em
+}
 .post-preview > a > .post-title {
 	font-size: 30px;
 }
