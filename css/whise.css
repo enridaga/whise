@@ -43,3 +43,10 @@ h2,h3,h4,h5{
 .post-preview > .post-subtitle {
 	font-size: 22px;
 }
+
+.plain-text-link{
+	font-size: 0.5em;
+	font-weight: normal;
+	display: block;
+	font-style: normal;
+}
