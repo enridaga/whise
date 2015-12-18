@@ -47,6 +47,6 @@ h2,h3,h4,h5{
 .plain-text-link{
 	font-size: 0.5em;
 	font-weight: normal;
-	display: block;
+	display: inline-block;
 	font-style: normal;
 }
