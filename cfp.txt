@@ -90,6 +90,7 @@ Papers are to be submitted through the Easychair Conference Management System [ 
 - Angeliki Lymberopoulou, The Open University
 - Elena Montiel, Universidad Politécnica de Madrid
 - Paul Mulholland, The Open University
+- Dominic Oldman, British Museum
 - Kevin Page, University of Oxford
 - Silvio Peroni, Alma Mater Studiorum Università di Bologna
 - Mia Ridge, The British Library
