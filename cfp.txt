@@ -73,6 +73,7 @@ Papers are to be submitted through the Easychair Conference Management System [ 
 
 - Carlo Allocca, The Open University
 - Elton Barker, The Open University
+- Francesca Benatti, The Open University
 - Gabriel Bodard, King’s College
 - Kai-Christian Bruhn, mainzed
 - Benjamin Fields, Goldsmiths University of London
@@ -81,11 +82,14 @@ Papers are to be submitted through the Easychair Conference Management System [ 
 - Elena González-Blanco, Universidad Nacional de Educación a Distancia
 - Jorge Gracia, Universidad Politécnica de Madrid
 - Ethan Gruber, American Numismatic Society
+- Eero Hyvönen, Aalto University
 - Rinke Hoekstra, Vrije Universiteit Amsterdam
+- Laura Hollink, Centrum Wiskunde & Informatica
 - Lorna Hughes, University of Glasgow
 - Antoine Isaac, Vrije Universiteit Amsterdam
 - Angeliki Lymberopoulou, The Open University
 - Elena Montiel, Universidad Politécnica de Madrid
+- Paul Mulholland, The Open University
 - Kevin Page, University of Oxford
 - Silvio Peroni, Alma Mater Studiorum Università di Bologna
 - Mia Ridge, The British Library
