@@ -66,7 +66,7 @@ We welcome the following types of contributions:
 - Short papers (up to 6 pages)
 - Poster or Demo papers (up to 4 pages) 
 All submissions must be PDF documents written in English and formatted according to LNCS instructions for authors 
-[ http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0 ].
+[ http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0 ]. Page limits are inclusive of references and appendices, if any.
 Papers are to be submitted through the Easychair Conference Management System [ https://easychair.org/conferences/?conf=whise2016 ].
 
 # PROGRAM COMMITTEE
