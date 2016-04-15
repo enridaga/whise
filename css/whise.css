@@ -4,49 +4,28 @@ maroon: #9E5F0F
 red: 59100d
 */
 
-.intro-header {
-	margin-bottom: 5px;
-}
-.intro-header .site-heading h1, .intro-header .page-heading h1 {
-	font-size: 40px;
-}
-.navbar-twitter {
-    display: inline-block;
-    margin-top: 16px;
-    font-size: small;
-}
-p, li {
-	font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
-	font-size: 1em;
-}
+#whise_program { font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif; font-size: 0.95em; width:100% }
+#whise_program em { font-weight:bold }
+#whise_program p { margin:0 }
+#whise_program tr th.session { text-align:center }
+#whise_program tr th.times { font-weight:normal; min-width:130px; text-align:right; width:18% }
+#whise_program tr td , #whise_program  tr th { border: 1px solid #bbb; padding:5px }
+#whise_program tr td ul { list-style:none; padding-left:0 }
+#whise_program tr td ul li { margin-top:5px }
 
-a {
-	color: #337AB7;
-}
+.intro-header { margin-bottom:5px }
+.intro-header .site-heading h1, .intro-header .page-heading h1 { font-size: 40px }
+.navbar-twitter { display: inline-block; margin-top: 16px; font-size: small }
+.post-preview { font-size: 0.9em }
+.post-preview > a > .post-title {	font-size: 30px }
+.post-preview > .post-subtitle {	font-size: 22px }
+.plain-text-link { font-size: 0.5em;	font-weight: normal; display: inline-block; font-style: normal }
 
-hr {
-	border-color: #9E5F0F;
-	margin: 3em 0px;
-}
+a  { color: #337AB7 }
+h2,h3,h4,h5 { color: #59100D }
+hr  { border-color: #9E5F0F; margin: 3em 0px }
+p, li  { font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif; font-size: 1em }
 
-h2,h3,h4,h5{
-	color: #59100D;
-}
 
-.post-preview {
-	font-size: 0.9em
-}
-.post-preview > a > .post-title {
-	font-size: 30px;
-}
 
-.post-preview > .post-subtitle {
-	font-size: 22px;
-}
 
-.plain-text-link{
-	font-size: 0.5em;
-	font-weight: normal;
-	display: inline-block;
-	font-style: normal;
-}
