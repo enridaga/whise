@@ -1,0 +1,99 @@
+==== Call for Papers (WHiSe 2016) ====
+Workshop on Digital Humanities in the Semantic Web - WHiSe 2016
+
+Date: May 29 or 30, 2016
+Venue: Heraklion, Crete (co-located with ESWC 2016)
+Hashtag: #whise2016
+Twitter: @whiseworkshop
+Site: http://whise.kmi.open.ac.uk/index.html
+
+Workshop chairs:
+- Alessandro Adamou - The Open University
+- Enrico Daga - The Open University
+- Leif Isaksen - University of Lancaster 
+
+# DESCRIPTION
+There are a number of specialised fields of research in the Humanities that have recorded success stories of adoption of technologies 
+in the Semantic Web. 
+Digital collections, cultural heritage aggregators, digital libraries, gazetteers, thesauri and digital maps of the past have all 
+demonstrated to lend themselves to putting applications of Linked Data and Web ontologies to good use.
+
+It is therefore important to reflect on the extent to which the Semantic Web community - its vision, its technological offer and the 
+large volumes of data it generates - are serving the needs of historians, philologists, cultural critics, musicologists and other 
+humanists that generally cannot rely on structured data generated en masse through social networks or online media platforms.
+Is the race for Big Data mining cutting off these scholarly categories?
+Are there research challenges of interest that humanists have not considered due to perceptions that Linked Data is either another way 
+to represent digital collections, or an arcane technical science whose results are as opaque as its procedures?
+What problems do Humanities users have in interacting with Semantic Web content and applications?
+And how can they help Semantic Web researchers support modes of inquiry beyond the constraints of rationalism and technical solutionism? 
+
+WHiSe 2016 welcomes original research contributions crossing Humanities and the Semantic Web. 
+Scholars who have conducted research or developed impactful applications are invited to submit full papers with appropriately evaluated 
+contributions. 
+WHiSe also welcomes vision/position papers on novel challenges or approaches to existing problems (short papers), 
+as well as proposals for demo or poster showcases during the workshop. 
+Topics on which potential submitters are invited to contribute include, but are not limited to:
+
+- Semantic applications and systems in the Humanities and cultural heritage
+- Novel approaches enabling the use of Semantic Web technologies in Digital Humanities
+- Definition and alignment of controlled vocabularies in the Humanities
+- Relationship between markup languages and ontologies in the Humanities
+- Representation and reasoning with Space and Time in the context of Digital Humanities
+- Quality issues with semantic (linked) databases in the Humanities domain
+- Addressing incompleteness and fuzziness in historical data
+- Interlinking historical datasets or other Humanities data with data from other domains
+- Usability of interfaces to Linked Data for Humanities Data and interaction patterns
+- Methodological aspects and interactions between the Semantic Web and Humanities research communities
+- Studies of users and their needs/constraints (as opposed to ‘toy’ problems)
+- Position papers on past, present and future of semantic technologies in the Humanities
+- Concrete use cases of working multi-lateral connectivity or the use of semantic data ‘in the wild’
+
+Submissions in all the categories mentioned above (full, short, poster/demo papers) will be peer-reviewed by acknowledged researchers 
+familiar with both scientific communities. Accepted papers will be published as online proceedings courtesy of CEUR-WS.org, however 
+workshop chairs will award one best paper to be published as part of the proceedings of the ESWC 2016 conference.
+
+# IMPORTANT DATES
+Submission deadline: Tuesday, March 1
+Notification to authors: Friday, April 1
+Camera-ready due on: Friday, April 15
+Workshop day: 29 or 30 May 2016 - To be confirmed 
+    
+# SUBMISSION INSTRUCTIONS
+All papers must represent original and unpublished work that is not currently under review. 
+Papers will be evaluated according to their significance, originality, technical content, style, clarity, and relevance to the workshop.
+We welcome the following types of contributions:
+- Full papers (up to 12 pages)
+- Short papers (up to 6 pages)
+- Poster or Demo papers (up to 4 pages) 
+All submissions must be PDF documents written in English and formatted according to LNCS instructions for authors 
+[ http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0 ]. Page limits are inclusive of references and appendices, if any.
+Papers are to be submitted through the Easychair Conference Management System [ https://easychair.org/conferences/?conf=whise2016 ].
+
+# PROGRAM COMMITTEE
+
+- Carlo Allocca, The Open University
+- Elton Barker, The Open University
+- Francesca Benatti, The Open University
+- Gabriel Bodard, King’s College
+- Kai-Christian Bruhn, mainzed
+- Benjamin Fields, Goldsmiths University of London
+- Nick Gibbins, University of Southampton
+- Asunción Gómez-Pérez, Universidad Politécnica de Madrid
+- Elena González-Blanco, Universidad Nacional de Educación a Distancia
+- Jorge Gracia, Universidad Politécnica de Madrid
+- Ethan Gruber, American Numismatic Society
+- Eero Hyvönen, Aalto University
+- Rinke Hoekstra, Vrije Universiteit Amsterdam
+- Laura Hollink, Centrum Wiskunde & Informatica
+- Lorna Hughes, University of Glasgow
+- Antoine Isaac, Vrije Universiteit Amsterdam
+- Angeliki Lymberopoulou, The Open University
+- Elena Montiel, Universidad Politécnica de Madrid
+- Paul Mulholland, The Open University
+- Dominic Oldman, British Museum
+- Kevin Page, University of Oxford
+- Silvio Peroni, Alma Mater Studiorum Università di Bologna
+- Mia Ridge, The British Library
+- Rainer Simon, Austrian Institute of Technology
+- Ilaria Tiddi, The Open University
+- Daniel Vila-Suero, Universidad Politécnica de Madrid 
