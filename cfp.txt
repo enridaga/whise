@@ -1,9 +1,9 @@
-==== Call for Papers (WHiSe 2016) ====
-Workshop on Digital Humanities in the Semantic Web - WHiSe 2016
+==== Call for Papers (WHiSe II) ====
+Workshop on Digital Humanities in the Semantic Web - WHiSe II
 
-Date: May 29 or 30, 2016
-Venue: Heraklion, Crete (co-located with ESWC 2016)
-Hashtag: #whise2016
+Date: October 21 or 22, 2017
+Venue: Vienna, Austria (co-located with ISWC 2017)
+Hashtag: #whise2017
 Twitter: @whiseworkshop
 Site: http://whise.kmi.open.ac.uk/index.html
 
@@ -27,73 +27,67 @@ to represent digital collections, or an arcane technical science whose results a
 What problems do Humanities users have in interacting with Semantic Web content and applications?
 And how can they help Semantic Web researchers support modes of inquiry beyond the constraints of rationalism and technical solutionism? 
 
-WHiSe 2016 welcomes original research contributions crossing Humanities and the Semantic Web. 
-Scholars who have conducted research or developed impactful applications are invited to submit full papers with appropriately evaluated 
-contributions. 
-WHiSe also welcomes vision/position papers on novel challenges or approaches to existing problems (short papers), 
-as well as proposals for demo or poster showcases during the workshop. 
+WHiSe II welcomes original research contributions crossing Humanities and the Semantic Web. 
+Scholars who have conducted research or developed impactful applications are invited to submit 
+full papers with appropriately evaluated contributions. 
+WHiSe also welcomes short vision or position papers on novel challenges or approaches to existing problems.
+
 Topics on which potential submitters are invited to contribute include, but are not limited to:
 
 - Semantic applications and systems in the Humanities and cultural heritage
 - Novel approaches enabling the use of Semantic Web technologies in Digital Humanities
-- Definition and alignment of controlled vocabularies in the Humanities
-- Relationship between markup languages and ontologies in the Humanities
-- Representation and reasoning with Space and Time in the context of Digital Humanities
-- Quality issues with semantic (linked) databases in the Humanities domain
+- Definition and alignment of controlled vocabularies
+- Relationship between markup languages and ontologies
+- Representation and reasoning with Space and Time, especially in historical contexts
+- Quality issues with semantically enriching databases in the Humanities domain
 - Addressing incompleteness and fuzziness in historical data
 - Interlinking historical datasets or other Humanities data with data from other domains
 - Usability of interfaces to Linked Data for Humanities Data and interaction patterns
 - Methodological aspects and interactions between the Semantic Web and Humanities research communities
 - Studies of users and their needs/constraints (as opposed to ‘toy’ problems)
 - Position papers on past, present and future of semantic technologies in the Humanities
-- Concrete use cases of working multi-lateral connectivity or the use of semantic data ‘in the wild’
+- Concrete use cases of working multi-lateral connectivity or the use of semantic data ‘in the wild’ (i.e. beyond the laboratory environment)
+- Capturing the semantics of intangible heritage (musicianship, performing arts, and oral traditions)
+- Ontologies and methods for the preservation and study of Intangible Cultural Heritage (ICH)
+- Applications of the Semantic Web for scholarship in anthropology, ethnology and cultural studies on the field
+- Data, semantics and ontologies for musical scholarship
 
-Submissions in all the categories mentioned above (full, short, poster/demo papers) will be peer-reviewed by acknowledged researchers 
-familiar with both scientific communities. Accepted papers will be published as online proceedings courtesy of CEUR-WS.org, however 
-workshop chairs will award one best paper to be published as part of the proceedings of the ESWC 2016 conference.
+Submissions in all the categories mentioned above (both full and short papers) will be peer-reviewed by acknowledged researchers 
+familiar with both scientific communities. Accepted papers will be published as online proceedings courtesy of CEUR-WS.org.
 
 # IMPORTANT DATES
-Submission deadline: Tuesday, March 1
-Notification to authors: Friday, April 1
-Camera-ready due on: Friday, April 15
-Workshop day: 29 or 30 May 2016 - To be confirmed 
+Submission deadline: Tuesday, July 25, 2017 (hard)
+Notification to authors: Thursday, August 24, 2017
+Camera-ready due on: Tuesday, September 12, 2017
+Workshop day: October 21 or 22, 2017 - To be confirmed 
     
 # SUBMISSION INSTRUCTIONS
-All papers must represent original and unpublished work that is not currently under review. 
+Every submitted paper must represent original and unpublished work: it must not be under review or accepted elsewhere and there must be 
+a significantly clear element of novelty distinguishing a submitted paper from any other 
+
 Papers will be evaluated according to their significance, originality, technical content, style, clarity, and relevance to the workshop.
 We welcome the following types of contributions:
 - Full papers (up to 12 pages)
 - Short papers (up to 6 pages)
-- Poster or Demo papers (up to 4 pages) 
 All submissions must be PDF documents written in English and formatted according to LNCS instructions for authors 
 [ http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0 ]. Page limits are inclusive of references and appendices, if any.
-Papers are to be submitted through the Easychair Conference Management System [ https://easychair.org/conferences/?conf=whise2016 ].
+Papers are to be submitted through the Easychair Conference Management System [ https://easychair.org/conferences/?conf=whise2017 ].
 
-# PROGRAM COMMITTEE
+# PROGRAM COMMITTEE (to be extended)
 
-- Carlo Allocca, The Open University
 - Elton Barker, The Open University
 - Francesca Benatti, The Open University
 - Gabriel Bodard, King’s College
-- Kai-Christian Bruhn, mainzed
-- Benjamin Fields, Goldsmiths University of London
-- Nick Gibbins, University of Southampton
-- Asunción Gómez-Pérez, Universidad Politécnica de Madrid
-- Elena González-Blanco, Universidad Nacional de Educación a Distancia
-- Jorge Gracia, Universidad Politécnica de Madrid
-- Ethan Gruber, American Numismatic Society
-- Eero Hyvönen, Aalto University
-- Rinke Hoekstra, Vrije Universiteit Amsterdam
+- Marilena Daquino, Alma Mater Studiorum Università di Bologna
+- David De Roure, University of Oxford
 - Laura Hollink, Centrum Wiskunde & Informatica
-- Lorna Hughes, University of Glasgow
 - Antoine Isaac, Vrije Universiteit Amsterdam
-- Angeliki Lymberopoulou, The Open University
-- Elena Montiel, Universidad Politécnica de Madrid
-- Paul Mulholland, The Open University
-- Dominic Oldman, British Museum
+- Albert Meroño Peñuela, Vrije Universiteit Amsterdam
+- Sarah Middle, The Open University
+- Elena Montiel Ponsoda, Universidad Politécnica de Madrid
 - Kevin Page, University of Oxford
 - Silvio Peroni, Alma Mater Studiorum Università di Bologna
 - Mia Ridge, The British Library
 - Rainer Simon, Austrian Institute of Technology
-- Ilaria Tiddi, The Open University
-- Daniel Vila-Suero, Universidad Politécnica de Madrid 
+- Konstantin Todorov, University of Montpellier
+- François Vignale, Université du Maine 
