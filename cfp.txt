@@ -84,14 +84,20 @@ See also the guidelines of the ISWC 2017 research track for 'Prior Publication a
 - Marilena Daquino, Alma Mater Studiorum Università di Bologna
 - David De Roure, University of Oxford
 - Elena González-Blanco, Universidad Nacional de Educación a Distancia 
+- Ethan Gruber, American Numismatic Society
 - Laura Hollink, Centrum Wiskunde & Informatica
+- Eero Hyvönen, Aalto University
 - Antoine Isaac, Vrije Universiteit Amsterdam
 - Albert Meroño Peñuela, Vrije Universiteit Amsterdam
 - Sarah Middle, The Open University
 - Elena Montiel Ponsoda, Universidad Politécnica de Madrid
+- Ruth Mostern, University of Pittsburgh
+- Paul Mulholland, The Open University
 - Kevin Page, University of Oxford
 - Silvio Peroni, Alma Mater Studiorum Università di Bologna
 - Mia Ridge, The British Library
+- Ryan Shaw, University of North Carolina at Chapel Hill
 - Rainer Simon, Austrian Institute of Technology
 - Konstantin Todorov, University of Montpellier
+- Francesca Tomasi, Alma Mater Studiorum Università di Bologna
 - François Vignale, Université du Maine 
