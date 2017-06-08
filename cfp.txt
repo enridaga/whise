@@ -86,6 +86,7 @@ See also the guidelines of the ISWC 2017 research track for 'Prior Publication a
 - Elena González-Blanco, Universidad Nacional de Educación a Distancia 
 - Ethan Gruber, American Numismatic Society
 - Laura Hollink, Centrum Wiskunde & Informatica
+- Lorna Hughes, University of Glasgow
 - Eero Hyvönen, Aalto University
 - Antoine Isaac, Vrije Universiteit Amsterdam
 - Albert Meroño Peñuela, Vrije Universiteit Amsterdam
@@ -93,6 +94,7 @@ See also the guidelines of the ISWC 2017 research track for 'Prior Publication a
 - Elena Montiel Ponsoda, Universidad Politécnica de Madrid
 - Ruth Mostern, University of Pittsburgh
 - Paul Mulholland, The Open University
+- Michele Pasin, Springer Nature
 - Kevin Page, University of Oxford
 - Silvio Peroni, Alma Mater Studiorum Università di Bologna
 - Mia Ridge, The British Library
