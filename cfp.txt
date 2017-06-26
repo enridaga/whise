@@ -97,6 +97,7 @@ See also the guidelines of the ISWC 2017 research track for 'Prior Publication a
 - Michele Pasin, Springer Nature
 - Kevin Page, University of Oxford
 - Silvio Peroni, Alma Mater Studiorum Università di Bologna
+- Davide Picca, University of Lausanne
 - Mia Ridge, The British Library
 - Ryan Shaw, University of North Carolina at Chapel Hill
 - Rainer Simon, Austrian Institute of Technology
