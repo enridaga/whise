@@ -92,7 +92,7 @@ See also the guidelines of the ISWC 2017 research track for 'Prior Publication a
 - Ethan Gruber, American Numismatic Society
 - Laura Hollink, Centrum Wiskunde & Informatica
 - Lorna Hughes, University of Glasgow
-- Eero Hyvönen, Aalto University
+- Eero Hyvönen, Aalto University and University of Helsinki
 - Antoine Isaac, Vrije Universiteit Amsterdam
 - Albert Meroño Peñuela, Vrije Universiteit Amsterdam
 - Sarah Middle, The Open University
