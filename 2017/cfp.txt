@@ -1,0 +1,111 @@
+==== Call for Papers (WHiSe II) ====
+Workshop on Digital Humanities in the Semantic Web - WHiSe II
+
+Date: October 21 or 22, 2017
+Venue: Vienna, Austria (co-located with ISWC 2017)
+Hashtag: #whise2017
+Twitter: @whiseworkshop
+Site: http://whise.kmi.open.ac.uk/index.html
+
+Workshop chairs:
+- Alessandro Adamou - The Open University
+- Enrico Daga - The Open University
+- Leif Isaksen - University of Lancaster 
+
+
+# DESCRIPTION
+
+Large digital libraries and cultural heritage aggregators have demonstrated the value of semantic technologies 
+in the dissemination of catalogued data in the Humanities, also thanks to widely-adopted extensible conceptual models.
+However, the more recent digital research landscape in the Humanities has seen the rise of a multitude of application
+domains for Linked Data management techniques and Web ontologies, including the production of gazetteers and other concept schemes, annotated historical documents and even digital preservation of the intangible aspects of cultural, such as the performing arts.
+
+As this emerging research ecosystem deals with the reality of the Semantic Web and the ever-growing data 
+cloud under its aegis, it is important to reflect on the ways in which the Semantic Web community is serving the needs of
+these research networks which include historians, philologists, cultural critics, musicologists and artists.
+Are barriers to access to these systems and techniques inhibiting uptake in these scholarly areas? 
+Are there research challenges of interest that humanists have not considered due to biased perceptions as to the utility of Linked Data?
+What problems do Humanities users experience when interacting with Semantic Web content and applications?
+What otherwise unseen opportunities might arise by confronting Semantic Web researchers with non-technical issues and needs stemming from cultural studies?
+
+WHiSe II welcomes original research contributions crossing Humanities and the Semantic Web. Scholars who have conducted research or developed impactful applications are invited to submit full papers with appropriately evaluated contributions. WHiSe II also welcomes short vision or position papers on novel challenges or approaches to existing problems.
+
+Topics on which potential submitters are invited to contribute include, but are not limited to:
+
+- Semantic applications and systems in the Humanities and cultural heritage
+- Novel approaches enabling the use of Semantic Web technologies in Digital Humanities
+- Definition and alignment of controlled vocabularies
+- Relationship between markup languages and ontologies
+- Representation and reasoning with Space and Time, especially in historical contexts
+- Capturing the semantics of the intangible in human culture (e.g. musicianship, performing arts, and oral traditions) for their preservation and study
+- Applications of the Semantic Web for scholarship in anthropology, ethnology and cultural studies on the field
+- Data, semantics and ontologies for musical scholarship
+- Quality issues with semantically enriching databases in the Humanities domain
+- Interlinking historical datasets or other Humanities data with data from other domains
+- Addressing incompleteness and fuzziness in historical data
+- Usability of interfaces to Linked Data for Humanities Data and interaction patterns
+- Methodological aspects and interactions between the Semantic Web and Humanities research communities
+- Studies of Humanist users and their needs/constraints
+- Position papers on past, present and future of semantic technologies in the Humanities
+
+Submissions in all the categories mentioned above (both full and short papers) will be peer-reviewed by acknowledged researchers 
+familiar with both scientific communities. Accepted papers will be published as online proceedings courtesy of CEUR-WS.org.
+
+
+# IMPORTANT DATES
+
+Submission deadline: [EXTENDED] Tuesday, July 25, 2017
+Notification to authors: Thursday, August 24, 2017
+Camera-ready due on: Friday, September 8, 2017
+
+The above deadlines are 23:59 Hawaii time
+
+Workshop day: October 22, 2017
+
+
+# SUBMISSION INSTRUCTIONS
+
+Papers will be evaluated according to their significance, originality, technical content, style, clarity, and relevance to the workshop.
+We welcome the following types of contributions:
+- Full papers (up to 12 pages)
+- Short papers (up to 6 pages)
+All submissions must be PDF documents written in English and formatted according to LNCS instructions for authors 
+[ http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0 ]. Page limits are inclusive of references and appendices, if any.
+Papers are to be submitted through the Easychair Conference Management System [ https://easychair.org/conferences/?conf=whise2017 ].
+
+## PRIOR PUBLICATION AND MULTIPLE SUBMISSIONS
+Every submitted paper must represent original and unpublished work: it must not be under review or accepted elsewhere and there must be 
+a significantly clear element of novelty distinguishing a submitted paper from any other prior publication or current submission.
+See also the guidelines of the ISWC 2017 research track for 'Prior Publication and Multiple Submissions' [ https://iswc2017.semanticweb.org/calls/call-for-research-track-papers/ ].
+
+
+# PROGRAM COMMITTEE (to be extended)
+
+- Elton Barker, The Open University
+- Francesca Benatti, The Open University
+- Gabriel Bodard, School of Advanced Study, University of London
+- Marilena Daquino, Alma Mater Studiorum Università di Bologna
+- David De Roure, University of Oxford
+- Gyorgy Fazekas, Queen Mary University of London
+- Benjamin Fields, Goldsmiths University of London
+- Elena González-Blanco, Universidad Nacional de Educación a Distancia 
+- Ethan Gruber, American Numismatic Society
+- Laura Hollink, Centrum Wiskunde & Informatica
+- Lorna Hughes, University of Glasgow
+- Eero Hyvönen, Aalto University and University of Helsinki
+- Antoine Isaac, Vrije Universiteit Amsterdam
+- Albert Meroño Peñuela, Vrije Universiteit Amsterdam
+- Sarah Middle, The Open University
+- Elena Montiel Ponsoda, Universidad Politécnica de Madrid
+- Ruth Mostern, University of Pittsburgh
+- Paul Mulholland, The Open University
+- Michele Pasin, Springer Nature
+- Kevin Page, University of Oxford
+- Silvio Peroni, Alma Mater Studiorum Università di Bologna
+- Davide Picca, University of Lausanne
+- Mia Ridge, The British Library
+- Ryan Shaw, University of North Carolina at Chapel Hill
+- Rainer Simon, Austrian Institute of Technology
+- Konstantin Todorov, University of Montpellier
+- Francesca Tomasi, Alma Mater Studiorum Università di Bologna
+- François Vignale, Université du Maine 
