@@ -1,7 +1,7 @@
 ==== Call for Papers (WHiSe III) ====
 3rd Workshop on Humanities in the Semantic Web - WHiSe III
 
-Date: 20 May 20 2019 
+Date: 20 May 2019 
 Venue: Leipzig, Germany (co-located with LDK 2019)
 Hashtag: #whise2019
 Twitter: @whiseworkshop
