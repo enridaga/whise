@@ -1,7 +1,7 @@
 ==== Call for Papers (WHiSe III) ====
 3rd Workshop on Humanities in the Semantic Web - WHiSe III
 
-Date: May 20, 21, or 22, 2019 (to be confirmed)
+Date: 20 May 20 2019 
 Venue: Leipzig, Germany (co-located with LDK 2019)
 Hashtag: #whise2019
 Twitter: @whiseworkshop
@@ -78,10 +78,10 @@ Accepted papers will be published as online proceedings courtesy of CEUR-WS.org.
 
 # IMPORTANT DATES
 
-Submission deadline: Tuesday, March 5, 2019
-Notification to authors: Tuesday, April 2, 2019
-Camera-ready due on: Wednesday, April 17, 2019
-Workshop day: May 20, 2019
+Submission deadline: Tuesday 5 March 2019
+Notification to authors: Tuesday 2 April 2019
+Camera-ready due on: Wednesday 17 April 2019
+Workshop day: 20 May 2019
 
 
 # SUBMISSION INSTRUCTIONS
@@ -119,7 +119,7 @@ distinguishing a submitted paper from any other prior publication or current sub
 - Rossana Damiano, University of Turin
 - Marilena Daquino, Alma Mater Studiorum Università di Bologna
 - Paula Granados-García, The Open University
-- Eero Hyvönen, Aalto University
+- Eero Hyvönen, Aalto University and University of Helsinki (HELDIG)
 - Ioanna Kyvernitou, National University of Ireland Galway
 - Paul Mulholland, The Open University
 - Silvio Peroni, Alma Mater Studiorum Università di Bologna
