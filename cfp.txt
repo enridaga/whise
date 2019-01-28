@@ -115,14 +115,23 @@ distinguishing a submitted paper from any other prior publication or current sub
 - Elton Barker, The Open University
 - Francesca Benatti, The Open University
 - Victor de Boer, Vrije Universiteit Amsterdam
+- Gabriel Bodard, University of London
 - Enrico Daga, The Open University
 - Rossana Damiano, University of Turin
 - Marilena Daquino, Alma Mater Studiorum Università di Bologna
-- Paula Granados-García, The Open University
+- David De Roure, University of Oxford
+- Timothy Duguid, University of Glasgow
+- Nicholas Gibbins, University of Southampton
+- Paula Granados-Garcia, The Open University
 - Eero Hyvönen, Aalto University and University of Helsinki (HELDIG)
+- Antoine Isaac, Europeana & Vrije Universiteit Amsterdam
 - Ioanna Kyvernitou, National University of Ireland Galway
+- Sarah Middle, The Open University
 - Paul Mulholland, The Open University
+- Kevin Page, University of Oxford
 - Silvio Peroni, Alma Mater Studiorum Università di Bologna
+- Gimena del Río Riande, Universidad Nacional de Educación a Distancia
+- Ryan Shaw, University of North Carolina at Chapel Hill
 - Rainer Simon, Austrian Institute of Technology
 - Konstantin Todorov, University of Montpellier
 - Francesca Tomasi, Alma Mater Studiorum Università di Bologna
