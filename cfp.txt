@@ -101,7 +101,7 @@ Please note that paper submissions to WHiSe III are not anonymous.
 
 At least one author of each accepted paper must register for the workshop, in order to 
 present the paper there, and to the conference. For further instructions please refer to 
-the LDK 2019 page (http://2019.ldk-conf.org/). 
+the LDK 2019 page (http://2019.ldk-conf.org/registration/). 
 
 ## PRIOR PUBLICATION AND MULTIPLE SUBMISSIONS
 
@@ -132,6 +132,7 @@ distinguishing a submitted paper from any other prior publication or current sub
 - Kevin Page, University of Oxford
 - Michele Pasin, Digital Science
 - Silvio Peroni, Alma Mater Studiorum Università di Bologna
+- Davide Picca, University of Lausanne
 - Gimena del Río Riande, Universidad Nacional de Educación a Distancia
 - Ryan Shaw, University of North Carolina at Chapel Hill
 - Rainer Simon, Austrian Institute of Technology
