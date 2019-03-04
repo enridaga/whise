@@ -1,6 +1,8 @@
 ==== Call for Papers (WHiSe III) ====
 3rd Workshop on Humanities in the Semantic Web - WHiSe III
 
+Note: the submission deadline has been extended to March 15
+
 Date: 20 May 2019 
 Venue: Leipzig, Germany (co-located with LDK 2019)
 Hashtag: #whise2019
@@ -78,9 +80,9 @@ Accepted papers will be published as online proceedings courtesy of CEUR-WS.org.
 
 # IMPORTANT DATES
 
-Submission deadline: Tuesday 5 March 2019
-Notification to authors: Tuesday 2 April 2019
-Camera-ready due on: Wednesday 17 April 2019
+Submission deadline: Friday 15 March 2019 [EXTENDED]
+Notification to authors: Tuesday 16 April 2019
+Camera-ready due on: Wednesday 25 April 2019
 Workshop day: 20 May 2019
 
 
