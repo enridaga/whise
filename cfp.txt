@@ -81,7 +81,7 @@ Accepted papers will be published as online proceedings courtesy of CEUR-WS.org.
 # IMPORTANT DATES
 
 Submission deadline: Friday 15 March 2019 [EXTENDED]
-Notification to authors: Tuesday 16 April 2019
+Notification to authors: Friday 12 April 2019
 Camera-ready due on: Wednesday 25 April 2019
 Workshop day: 20 May 2019
 
