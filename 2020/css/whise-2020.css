@@ -1,6 +1,6 @@
 /* palette 
 blue: C2D4F2
-maroon: #9E5F0F
+maroon: #845A21
 red: 59100d
 */
 
@@ -13,17 +13,17 @@ red: 59100d
 #whise_program tr td ul { list-style:none; padding-left:0 }
 #whise_program tr td ul li { margin-top:5px }
 
-.intro-header { margin-bottom:5px }
-.intro-header .site-heading h1, .intro-header .page-heading h1 { font-size: 40px }
+.intro-header { margin-bottom:5px; background-position: 0em -11em;}
+.intro-header .site-heading h1, .intro-header .page-heading h1 { font-size: 30px }
 .navbar-twitter { display: inline-block; margin-top: 16px; font-size: small }
 .post-preview { font-size: 0.9em }
 .post-preview > a > .post-title {	font-size: 30px }
 .post-preview > .post-subtitle {	font-size: 22px }
 .plain-text-link { font-size: 0.5em;	font-weight: normal; display: inline-block; font-style: normal }
 
-a  { color: #337AB7 }
-h2,h3,h4,h5 { color: #59100D }
-hr  { border-color: #9E5F0F; margin: 3em 0px }
+a  { color: #845A21 }
+h1,h2,h3,h4,h5 { color: #845A21; font-weight: normal; }
+hr  { border-color: #845A21; margin: 3em 0px }
 p, li  { font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif; font-size: 1em }
 
 

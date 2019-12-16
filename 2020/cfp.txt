@@ -1,81 +1,46 @@
-==== Call for Papers (WHiSe III) ====
-3rd Workshop on Humanities in the Semantic Web - WHiSe III
+==== Call for Papers (WHiSe 2020) ====
+3rd Workshop on Humanities in the Semantic Web - WHiSe
 
-Note: the submission deadline has been extended to March 15
-
-Date: 20 May 2019 
+Date: (to be announced)
 Venue: Leipzig, Germany (co-located with LDK 2019)
-Hashtag: #whise2019
+Hashtag: #whise2020
 Twitter: @whiseworkshop
 Site: http://whise.kmi.open.ac.uk/ 
 
 Workshop chairs:
 - Alessandro Adamou - Data Science Institute, NUI Galway, Ireland
-- Marieke van Erp - KNAW Humanities Cluster, The Netherlands
+- Enrico Daga - The Open University, UK
 - Albert Meroño-Peñuela - Vrije Universiteit Amsterdam, The Netherlands
 
 
 # DESCRIPTION
 
-The emergence of tractable and affordable methods for the collection, enhancement and 
-analysis of data generated en masse has helped shape several research fields, such as 
-social sciences, into structured research fields. Digital Humanities are enjoying such a 
-transformation to the point that their very boundaries and methodological foundations are 
-being called into question. The quality and relevance of findings obtained from the 
-thorough, human-driven analysis of a few sources, compared to unsupervised large-scale 
-analytics on masses of data, is a fervent ongoing debate; and yet, the latter cannot 
-prescind from a conscious effort in shaping the world to which the analyses need to 
-relate. This has largely taken the form of knowledge modelling efforts, from which many 
-ontologies, controlled vocabularies and conceptual models like CIDOC-CRM, the Europeana 
-Data Model and FRBRoo have arisen. However, other fields traditionally less reliant on 
-machine-readable data have seen the emergence of ‘ecological’ communities with an approach 
-to the Web of Data. Recent examples include the 2014 ISAW papers for the ancient world, 
-Transforming Musicology for music and musicology (http://www.transforming-musicology.org/) 
-and Linked Pasts for history and archaeology (http://commons.pelagios.org/groups/linked-pasts/).
+The emergence of affordable computational methods for the collection, enhancement and analysis of data generated en masse has helped shape several fields, such as social sciences, into structured research fields. Digital Humanities are enjoying such a transformation to the point that their very boundaries and methodological foundations are being called into question. The quality and relevance of findings obtained from the thorough, human-driven analysis of a few sources, compared to unsupervised large-scale analytics on masses of data, is a fervent ongoing debate; and yet, the latter cannot prescind from a conscious effort in shaping the world to which the analyses need to relate. This has largely taken the form of knowledge modelling efforts, from which many ontologies, controlled vocabularies and conceptual models like CIDOC-CRM, the Europeana Data Model and FRBRoo have arisen. However, other fields traditionally less reliant on machine-readable data have seen the emergence of ‘ecological’ communities with an approach to the Web of Data. Recent examples include Transforming Musicology for music and musicology and Linked Pasts for history and archaeology.
 
-As these emerging research networks deal with the reality of the Semantic Web and the 
-ever-growing Linked Data Cloud, the WHiSe workshop series was conceived from a reflection 
-on the extent to which the Semantic Web community is serving the needs of historians, 
-philologists, cultural critics, musicologists and other humanists that generally: (1) 
-cannot rely on structured data generated en masse through social networks or online media 
-platforms; (2) deal with vague, fragmentary, uncertain, contradictory and yet still 
-valuable evidence that poses a challenge even to Artificial Intelligence research per se; 
-(3) have good reason to value the systematic investigation of a few sources over the 
-(semi-)automated analytical findings on masses of content. WHiSe addresses this need by 
-promoting dialogue between humanists who employ or are contemplating Semantic Web 
-technologies, and Semantic Web scholars providing accounts of applied research in the 
-Humanities. It will also be a forum for raising opportunities to explore novel research 
-problems that can be relevant to both communities.
+The WHiSe workshop series was conceived from a reflection on the extent to which the Semantic Web community is serving the needs of historians, philologists, cultural critics, musicologists and other humanists that generally:
 
-WHiSe III welcomes original research contributions crossing Humanities and the Semantic 
-Web. Scholars who have conducted research or developed impactful applications are invited 
-to submit full papers (12 pages, Springer LNCS typeset) with appropriately evaluated 
-contributions. WHiSe III also welcomes short vision or position papers (6 pages, Springer 
-LNCS typeset) on novel challenges or approaches to existing problems.
+(1) cannot always rely on masses of structured data;
+(2) deal with vague, fragmentary, uncertain, contradictory and yet still valuable evidence that poses a challenge even to Artificial Intelligence research per se;
+(3) have good reason to value the systematic investigation of a few sources but intend to push the boundaries by exploring the potential of automated analytical findings on masses of content.
+WHiSe also probes for interest in genuinely new Semantic Web research questions inspired by processes in Digital Humanities. It addresses both aspects by promoting dialogue between humanists who employ or are contemplating semantic technologies, and Semantic Web scholars providing accounts of applied research in the Humanities.
 
-Topics include, but are not limited to:
+WHiSe 2020 welcomes original research contributions crossing Humanities and the Semantic Web. Scholars who have conducted research or developed impactful applications are invited to submit full papers with appropriately evaluated contributions. WHiSe also welcomes vision/position papers on novel challenges or approaches to existing problems (short papers), as well as proposals for demo or poster showcases during the workshop. Topics on which potential submitters are invited to contribute include, but are not limited to:
 
-- Knowledge base generation from classical texts
-- Linking data within and across gazetteers
-- Semantic enrichment of data from historical records and biographies
-- Ecosystems and process descriptions for linking data in the humanities
-- Linked Digital Libraries and semantic archives
-- Ontology adoption in specific domains in the humanities
-- Knowledge graph construction and exploitation within and across domains
-- Computational methods for the prosopography of historical figures
-- Capturing, modelling and reasoning on musical data
-- The role of ontologies and controlled vocabularies in data preservation
-- Criticism of Semantic Web standards from the point of view of humanities scholarship
-- Ethical issues in using Semantic Web and Linked Data and their impact on the openness of 
-traditional research data
-- Notions on integrating digital humanities and data science
-- Knowledge bottlenecks and practical difficulties in using Semantic Web technologies by 
-humanities scholars
-- Utopian / dystopian visions of the Semantic Web of the future
-
-Submissions in all the categories mentioned above (both full and short papers) will be 
-peer-reviewed by acknowledged researchers familiar with both scientific communities. 
-Accepted papers will be published as online proceedings courtesy of CEUR-WS.org.
+Knowledge base generation from classical texts
+Linking data within and across gazetteers
+Semantic enrichment of data from historical records and biographies
+Ecosystems, infrastructures and process descriptions for linking data in the Humanities
+Linked Digital Libraries and semantic archives
+Ontology adoption in specific domains in the Humanities
+Computational methods for the prosopography of historical figures
+Capturing, modelling and reasoning on musical data
+The role of ontologies and controlled vocabularies in data preservation
+Contribution of Linked Data to the successful application of machine learning and deep learning methods in Digital Humanities
+Criticism of Semantic Web standards from the point of view of humanities scholarship
+Knowledge bottlenecks, practical difficulties and usability of Linked Data and Knowledge technologies by cultural institutions and Humanities scholars
+Ethical issues in using Semantic Web and Linked Data
+Utopic / dystopic visions of the Semantic Web of the future
+Submissions in all the categories mentioned above (full, short, poster/demo papers) will be peer-reviewed by acknowledged researchers familiar with both scientific communities. Accepted papers will be published as online proceedings courtesy of CEUR-WS.org.
 
 
 # IMPORTANT DATES
@@ -94,6 +59,7 @@ contributions:
 
 - Full papers (up to 12 pages)
 - Short papers (up to 6 pages)
+- Poster or Demo papers (up to 4 pages)
 
 All submissions must be PDF documents written in English and formatted according to LNCS 
 instructions for authors http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0). 
@@ -103,7 +69,7 @@ Please note that paper submissions to WHiSe III are not anonymous.
 
 At least one author of each accepted paper must register for the workshop, in order to 
 present the paper there, and to the conference. For further instructions please refer to 
-the LDK 2019 page (http://2019.ldk-conf.org/registration/). 
+the ESWC 2020 page (http://2020.eswc-conferences.org/). 
 
 ## PRIOR PUBLICATION AND MULTIPLE SUBMISSIONS
 
@@ -112,33 +78,22 @@ review or accepted elsewhere and there must be a significantly clear element of 
 distinguishing a submitted paper from any other prior publication or current submission. 
 
 
-# PROGRAM COMMITTEE (to be extended)
+# PROGRAM COMMITTEE (to be extended).
 
-- Elton Barker, The Open University
-- Francesca Benatti, The Open University
-- Victor de Boer, Vrije Universiteit Amsterdam
-- Gabriel Bodard, University of London
-- Enrico Daga, The Open University
-- Rossana Damiano, University of Turin
-- Marilena Daquino, Alma Mater Studiorum Università di Bologna
-- David De Roure, University of Oxford
-- Timothy Duguid, University of Glasgow
-- Nicholas Gibbins, University of Southampton
-- Jorge Gracia, Universidad de Zaragoza
-- Paula Granados-Garcia, The Open University
-- Eero Hyvönen, Aalto University and University of Helsinki (HELDIG)
-- Antoine Isaac, Europeana & Vrije Universiteit Amsterdam
-- Ioanna Kyvernitou, National University of Ireland Galway
-- Sarah Middle, The Open University
-- Paul Mulholland, The Open University
-- Kevin Page, University of Oxford
-- Michele Pasin, Digital Science
-- Silvio Peroni, Alma Mater Studiorum Università di Bologna
-- Davide Picca, University of Lausanne
-- Gimena del Río Riande, Universidad Nacional de Educación a Distancia
-- Ryan Shaw, University of North Carolina at Chapel Hill
-- Rainer Simon, Austrian Institute of Technology
-- Konstantin Todorov, University of Montpellier
-- Francesca Tomasi, Alma Mater Studiorum Università di Bologna
-- François Vignale, Université du Maine
-
+Elton Barker, The Open University
+Daniel Bangert, Göttingen State and University Library
+Sean Bechhofer, University of Manchester
+Francesca Benatti, The Open University
+Gabriel Bodard, School of Advanced Study, University of London
+Victor de Boer, Vrije Universiteit Amsterdam
+Marilena Daquino, Alma Mater Studiorum Università di Bologna
+Antoine Isaac, Europeana
+Francesco Mambrini, Università Cattolica
+John McCrae, National University of Ireland Galway
+Paul Mulholland, The Open University
+Kevin Page, University of Oxford
+Silvio Peroni, Alma Mater Studiorum Università di Bologna
+Davide Picca, University of Lausanne
+Rainer Simon, Austrian Institute of Technology
+Francesca Tomasi, Alma Mater Studiorum Università di Bologna
+François Vignale, Université du Maine
