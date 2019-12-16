@@ -1,8 +1,8 @@
 ==== Call for Papers (WHiSe 2020) ====
 3rd Workshop on Humanities in the Semantic Web - WHiSe
 
-Date: (to be announced)
-Venue: Leipzig, Germany (co-located with LDK 2019)
+Date: May 31 or June 1, 2020 (to be decided)
+Venue: Heraklion, Crete, Greece (co-located with ESWC 2020)
 Hashtag: #whise2020
 Twitter: @whiseworkshop
 Site: http://whise.kmi.open.ac.uk/ 
@@ -45,10 +45,10 @@ Submissions in all the categories mentioned above (full, short, poster/demo pape
 
 # IMPORTANT DATES
 
-Submission deadline: Friday 15 March 2019 [EXTENDED]
-Notification to authors: Friday 12 April 2019
-Camera-ready due on: Wednesday 25 April 2019
-Workshop day: 20 May 2019
+Submission deadline: February 28, 2020 
+Notification to authors: March 27, 2020
+Camera-ready due on: April 10, 2020
+Workshop day: May 31 or June 1, 2020 (to be decided)
 
 
 # SUBMISSION INSTRUCTIONS
