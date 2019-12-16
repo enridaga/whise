@@ -58,6 +58,14 @@ We welcome the following types of contributions:
 - Full papers (up to 12 pages)
 - Short papers (up to 6 pages)
 
+All papers will be evaluated according to their significance, originality, technical content, style, clarity, and relevance to the workshop.
+Short papers may report preliminary results, demos, or discuss a novel problem relevant to the community.
+Authors of accepted short papers may be required to present their work as a poster.
+
+Every submitted paper must represent original and unpublished work: it must not be under 
+review or accepted elsewhere and there must be a significantly clear element of novelty 
+distinguishing a submitted paper from any other prior publication or current submission.
+
 All submissions must be PDF documents written in English and formatted according to LNCS 
 instructions for authors http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0). 
 Page limits are inclusive of references and appendices, if any. Papers are to be submitted 
@@ -67,12 +75,6 @@ Please note that paper submissions to WHiSe are not anonymous.
 At least one author of each accepted paper must register for the workshop, in order to 
 present the paper there, and to the conference. For further instructions please refer to 
 the ESWC 2020 page (http://2020.eswc-conferences.org/). 
-
-Papers will be evaluated according to their significance, originality, technical content, style, clarity, and relevance to the workshop.
-Every submitted paper must represent original and unpublished work: it must not be under 
-review or accepted elsewhere and there must be a significantly clear element of novelty 
-distinguishing a submitted paper from any other prior publication or current submission.
-
 
 # PROGRAM COMMITTEE (to be extended).
 
