@@ -33,7 +33,7 @@ Linking data within and across gazetteers
 Semantic enrichment of data from historical records and biographies
 Ecosystems, infrastructures and process descriptions for linking data in the Humanities
 Linked Digital Libraries and semantic archives
-Semantic search in humanisties data
+Semantic search in humanities data
 Social semantics and network analysis of humanities data
 Ontology adoption in specific domains in the Humanities
 Computational methods for the prosopography of historical figures
