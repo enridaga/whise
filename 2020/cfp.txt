@@ -25,13 +25,16 @@ The WHiSe workshop series was conceived from a reflection on the extent to which
 (3) have good reason to value the systematic investigation of a few sources but intend to push the boundaries by exploring the potential of automated analytical findings on masses of content.
 WHiSe also probes for interest in genuinely new Semantic Web research questions inspired by processes in Digital Humanities. It addresses both aspects by promoting dialogue between humanists who employ or are contemplating semantic technologies, and Semantic Web scholars providing accounts of applied research in the Humanities.
 
-WHiSe 2020 welcomes original research contributions crossing Humanities and the Semantic Web. Scholars who have conducted research or developed impactful applications are invited to submit full papers with appropriately evaluated contributions. WHiSe also welcomes vision/position papers on novel challenges or approaches to existing problems (short papers), as well as proposals for demo or poster showcases during the workshop. Topics on which potential submitters are invited to contribute include, but are not limited to:
+WHiSe 2020 welcomes original research contributions crossing Humanities and the Semantic Web. Scholars who have conducted research or developed impactful applications are invited to submit full papers with appropriately evaluated contributions. WHiSe also welcomes vision/position papers on novel challenges or approaches to existing problems as well as demos and preliminary results (short papers). Topics on which potential submitters are invited to contribute include, but are not limited to:
 
+Construction and use of Humanities Knowledge Graphs
 Knowledge base generation from classical texts
 Linking data within and across gazetteers
 Semantic enrichment of data from historical records and biographies
 Ecosystems, infrastructures and process descriptions for linking data in the Humanities
 Linked Digital Libraries and semantic archives
+Semantic search in humanisties data
+Social semantics and network analysis of humanities data
 Ontology adoption in specific domains in the Humanities
 Computational methods for the prosopography of historical figures
 Capturing, modelling and reasoning on musical data
@@ -41,7 +44,7 @@ Criticism of Semantic Web standards from the point of view of humanities scholar
 Knowledge bottlenecks, practical difficulties and usability of Linked Data and Knowledge technologies by cultural institutions and Humanities scholars
 Ethical issues in using Semantic Web and Linked Data
 Utopic / dystopic visions of the Semantic Web of the future
-Submissions in all the categories mentioned above (full, short, poster/demo papers) will be peer-reviewed by acknowledged researchers familiar with both scientific communities. Accepted papers will be published as online proceedings courtesy of CEUR-WS.org.
+Submissions in all the categories mentioned above (full and short papers) will be peer-reviewed by acknowledged researchers familiar with both scientific communities. Accepted papers will be published as online proceedings courtesy of CEUR-WS.org.
 
 
 # IMPORTANT DATES
