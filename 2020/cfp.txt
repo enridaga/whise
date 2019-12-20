@@ -84,7 +84,6 @@ the ESWC 2020 page (http://2020.eswc-conferences.org/).
 
 Elton Barker, The Open University
 Daniel Bangert, Göttingen State and University Library
-Sean Bechhofer, University of Manchester
 Francesca Benatti, The Open University
 Gabriel Bodard, School of Advanced Study, University of London
 Victor de Boer, Vrije Universiteit Amsterdam
