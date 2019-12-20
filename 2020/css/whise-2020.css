@@ -13,7 +13,7 @@ red: 59100d
 #whise_program tr td ul { list-style:none; padding-left:0 }
 #whise_program tr td ul li { margin-top:5px }
 
-.intro-header { margin-bottom:5px; background-position: 0em -11em;}
+
 .intro-header .site-heading h1, .intro-header .page-heading h1 { font-size: 30px }
 .navbar-twitter { display: inline-block; margin-top: 16px; font-size: small }
 .post-preview { font-size: 0.9em }
@@ -26,6 +26,35 @@ h1,h2,h3,h4,h5 { color: #845A21; font-weight: normal; }
 hr  { border-color: #845A21; margin: 3em 0px }
 p, li  { font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif; font-size: 1em }
 
+@media only screen and (min-width: 1401px) {
+	.intro-header { margin-bottom:5px; background-position: 0em -18em;}
+}
+@media only screen and (min-width: 1200px) and (max-width: 1440px) {
+	.intro-header { margin-bottom:5px; background-position: 0em -6em;}
+}
+@media only screen and (min-width: 1024px) and (max-width: 1200px) {
+	.intro-header { margin-bottom:5px; background-position: 0em 0em;}
+}
+@media only screen and (min-width: 769px) and (max-width: 1023px) {
+	.intro-header { margin-bottom:5px; background-position: 0em 0em;}
+}
+@media only screen and (min-width: 451px) and (max-width: 768px) {
+	.intro-header { margin-bottom:5px; background-position: 0em 0em;}	
+}
+@media only screen and (min-width: 376px) and (max-width: 450px) {
+		.intro-header { margin-bottom:5px; background-position: 0em 0em;}
+}
+@media only screen and (max-width: 375px) {
+		.intro-header { margin-bottom:5px; background-position: 0em 1em;}
+}
 
 
+@media only screen and (max-width: 450px) {
+	body {
+		font-size: 1.6em;
+	}
+	h1,h2,h3,h4,h5{
+		font-size: 1.6em;
+	}
+}
 
