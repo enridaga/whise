@@ -6,7 +6,7 @@ Venue: Heraklion, Crete, Greece (co-located with ESWC 2020)
 Hashtag: #whise2020
 Twitter: @whiseworkshop
 Email: whise2020@easychair.org
-Site: http://whise.kmi.open.ac.uk/ 
+Site: http://whise.cc/2020/
 
 Workshop chairs:
 - Alessandro Adamou - Data Science Institute, NUI Galway, Ireland
