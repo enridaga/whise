@@ -5,7 +5,7 @@ red: 59100d
 */
 
 #whise_program { font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif; font-size: 0.95em; width:100% }
-#whise_program ul li em { font-weight:bold }
+#whise_program ul li em { font-weight: normal }
 #whise_program p { margin:0 }
 #whise_program tr th.session { text-align:center }
 #whise_program tr th.times { font-weight:normal; min-width:130px; text-align:right; width:18% }
